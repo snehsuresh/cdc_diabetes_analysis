@@ -1,0 +1,364 @@
+YEAR,FIPS,COUNTY,STATE,% OBESE
+2018,1011,Bullock County,Alabama,18.7
+2018,2068,Denali Borough,Alaska,18.9
+2018,2105,Hoonah-Angoon Census Area,Alaska,19.4
+2018,2195,Petersburg Census Area,Alaska,17.2
+2018,2230,Skagway Municipality,Alaska,18.3
+2018,5097,Montgomery County,Arkansas,19
+2018,6003,Alpine County,California,18.1
+2018,6027,Inyo County,California,18.1
+2018,6035,Lassen County,California,19.5
+2018,6041,Marin County,California,16.5
+2018,6043,Mariposa County,California,17.1
+2018,6051,Mono County,California,18.6
+2018,6057,Nevada County,California,15.7
+2018,6061,Placer County,California,18.9
+2018,6063,Plumas County,California,18.1
+2018,6075,San Francisco County,California,15.4
+2018,6087,Santa Cruz County,California,17.4
+2018,6091,Sierra County,California,18
+2018,8013,Boulder County,Colorado,13.6
+2018,8014,Broomfield County,Colorado,18.5
+2018,8015,Chaffee County,Colorado,14.4
+2018,8019,Clear Creek County,Colorado,18.7
+2018,8023,Costilla County,Colorado,18.1
+2018,8027,Custer County,Colorado,18.1
+2018,8033,Dolores County,Colorado,18.8
+2018,8035,Douglas County,Colorado,19
+2018,8037,Eagle County,Colorado,16.6
+2018,8047,Gilpin County,Colorado,17.9
+2018,8049,Grand County,Colorado,16.2
+2018,8051,Gunnison County,Colorado,13.8
+2018,8053,Hinsdale County,Colorado,18.5
+2018,8057,Jackson County,Colorado,17.8
+2018,8061,Kiowa County,Colorado,19.2
+2018,8067,La Plata County,Colorado,18.2
+2018,8065,Lake County,Colorado,18.9
+2018,8079,Mineral County,Colorado,17.4
+2018,8085,Montrose County,Colorado,19.1
+2018,8091,Ouray County,Colorado,17.1
+2018,8097,Pitkin County,Colorado,14.2
+2018,8103,Rio Blanco County,Colorado,17.1
+2018,8107,Routt County,Colorado,13.7
+2018,8111,San Juan County,Colorado,17.8
+2018,8113,San Miguel County,Colorado,17.2
+2018,8115,Sedgwick County,Colorado,18.3
+2018,8117,Summit County,Colorado,15.2
+2018,13005,Bacon County,Georgia,18.3
+2018,13007,Baker County,Georgia,18.4
+2018,13035,Butts County,Georgia,18.9
+2018,13037,Calhoun County,Georgia,19.4
+2018,13053,Chattahoochee County,Georgia,17.9
+2018,13065,Clinch County,Georgia,18.5
+2018,13099,Early County,Georgia,18.7
+2018,13101,Echols County,Georgia,18.6
+2018,13109,Evans County,Georgia,19.1
+2018,13119,Franklin County,Georgia,19.3
+2018,13125,Glascock County,Georgia,18.3
+2018,13141,Hancock County,Georgia,19.1
+2018,13147,Hart County,Georgia,18.3
+2018,13149,Heard County,Georgia,19.1
+2018,13155,Irwin County,Georgia,19.1
+2018,13159,Jasper County,Georgia,19.2
+2018,13165,Jenkins County,Georgia,19
+2018,13171,Lamar County,Georgia,18.7
+2018,13201,Miller County,Georgia,19.3
+2018,13219,Oconee County,Georgia,19
+2018,13237,Putnam County,Georgia,18.8
+2018,13239,Quitman County,Georgia,18
+2018,13243,Randolph County,Georgia,19
+2018,13249,Schley County,Georgia,18.6
+2018,13259,Stewart County,Georgia,17.6
+2018,13263,Talbot County,Georgia,18.3
+2018,13265,Taliaferro County,Georgia,17.6
+2018,13267,Tattnall County,Georgia,18.8
+2018,13273,Terrell County,Georgia,19.5
+2018,13281,Towns County,Georgia,18.1
+2018,13289,Twiggs County,Georgia,18.8
+2018,13293,Upson County,Georgia,15.4
+2018,13301,Warren County,Georgia,18.6
+2018,13307,Webster County,Georgia,17.4
+2018,13309,Wheeler County,Georgia,19.3
+2018,13311,White County,Georgia,19.1
+2018,13317,Wilkes County,Georgia,18.3
+2018,13319,Wilkinson County,Georgia,16.6
+2018,15005,Kalawao County,Hawaii,17.6
+2018,16013,Blaine County,Idaho,15.7
+2018,16033,Clark County,Idaho,18.9
+2018,16081,Teton County,Idaho,18.8
+2018,17003,Alexander County,Illinois,17.6
+2018,17009,Brown County,Illinois,17.5
+2018,17013,Calhoun County,Illinois,18.5
+2018,17017,Cass County,Illinois,17.9
+2018,17023,Clark County,Illinois,19
+2018,17035,Cumberland County,Illinois,18.1
+2018,17039,De Witt County,Illinois,18.9
+2018,17041,Douglas County,Illinois,19.1
+2018,17047,Edwards County,Illinois,18.8
+2018,17053,Ford County,Illinois,18.9
+2018,17057,Fulton County,Illinois,18
+2018,17059,Gallatin County,Illinois,18
+2018,17061,Greene County,Illinois,19.2
+2018,17065,Hamilton County,Illinois,19.5
+2018,17069,Hardin County,Illinois,19
+2018,17077,Jackson County,Illinois,18.9
+2018,17079,Jasper County,Illinois,17.9
+2018,17087,Johnson County,Illinois,17.3
+2018,17125,Mason County,Illinois,18
+2018,17127,Massac County,Illinois,19.2
+2018,17129,Menard County,Illinois,19.5
+2018,17139,Moultrie County,Illinois,17.3
+2018,17145,Perry County,Illinois,17.6
+2018,17149,Pike County,Illinois,19.3
+2018,17151,Pope County,Illinois,17.8
+2018,17153,Pulaski County,Illinois,18.2
+2018,17155,Putnam County,Illinois,17.6
+2018,17159,Richland County,Illinois,16.7
+2018,17165,Saline County,Illinois,19.3
+2018,17169,Schuyler County,Illinois,18
+2018,17171,Scott County,Illinois,17.7
+2018,17175,Stark County,Illinois,18.7
+2018,17181,Union County,Illinois,18.7
+2018,17185,Wabash County,Illinois,18.4
+2018,20153,Rawlins County,Kansas,18.1
+2018,21201,Robertson County,Kentucky,18.9
+2018,22035,East Carroll Parish,Louisiana,18.3
+2018,22107,Tensas Parish,Louisiana,17.7
+2018,22125,West Feliciana Parish,Louisiana,18
+2018,25019,Nantucket County,Massachusetts,18.7
+2018,26003,Alger County,Michigan,19.2
+2018,26043,Dickinson County,Michigan,19.2
+2018,26083,Keweenaw County,Michigan,18.2
+2018,26095,Luce County,Michigan,19
+2018,28055,Issaquena County,Mississippi,17.2
+2018,28125,Sharkey County,Mississippi,17.7
+2018,29029,Camden County,Missouri,19.5
+2018,29035,Carter County,Missouri,18.8
+2018,29039,Cedar County,Missouri,19
+2018,29065,Dent County,Missouri,18.5
+2018,29083,Henry County,Missouri,19.4
+2018,29093,Iron County,Missouri,18.5
+2018,29129,Mercer County,Missouri,19.5
+2018,29151,Osage County,Missouri,18.4
+2018,29203,Shannon County,Missouri,18.7
+2018,29227,Worth County,Missouri,18.4
+2018,30031,Gallatin County,Montana,19.2
+2018,30067,Park County,Montana,18.9
+2018,30069,Petroleum County,Montana,18.5
+2018,30079,Prairie County,Montana,19.3
+2018,30103,Treasure County,Montana,19.3
+2018,30109,Wibaux County,Montana,18.6
+2018,31103,Keya Paha County,Nebraska,19.2
+2018,31117,Mcpherson County,Nebraska,19
+2018,31165,Sioux County,Nebraska,19.5
+2018,32009,Esmeralda County,Nevada,18.1
+2018,35021,Harding County,New Mexico,18.7
+2018,35049,Santa Fe County,New Mexico,19.1
+2018,35055,Taos County,New Mexico,14.6
+2018,36061,New York County,New York,17.1
+2018,37009,Ashe County,North Carolina,19
+2018,37011,Avery County,North Carolina,19.3
+2018,37033,Caswell County,North Carolina,17.1
+2018,37167,Stanly County,North Carolina,19.4
+2018,37177,Tyrrell County,North Carolina,18.7
+2018,37185,Warren County,North Carolina,18.7
+2018,37187,Washington County,North Carolina,19
+2018,38087,Slope County,North Dakota,18.4
+2018,40003,Alfalfa County,Oklahoma,19
+2018,40055,Greer County,Oklahoma,19.5
+2018,40057,Harmon County,Oklahoma,18.1
+2018,40059,Harper County,Oklahoma,17.2
+2018,40085,Love County,Oklahoma,19.5
+2018,41003,Benton County,Oregon,19.4
+2018,41021,Gilliam County,Oregon,18.4
+2018,41055,Sherman County,Oregon,17.6
+2018,41069,Wheeler County,Oregon,18.3
+2018,42023,Cameron County,Pennsylvania,17.7
+2018,42053,Forest County,Pennsylvania,18.9
+2018,42057,Fulton County,Pennsylvania,17.9
+2018,42067,Juniata County,Pennsylvania,19.1
+2018,42113,Sullivan County,Pennsylvania,19.2
+2018,46043,Douglas County,South Dakota,19.4
+2018,46053,Gregory County,South Dakota,19.1
+2018,46061,Hanson County,South Dakota,19.4
+2018,46069,Hyde County,South Dakota,17.7
+2018,46073,Jerauld County,South Dakota,19
+2018,46075,Jones County,South Dakota,18.5
+2018,46085,Lyman County,South Dakota,19.4
+2018,46111,Sanborn County,South Dakota,18.5
+2018,46117,Stanley County,South Dakota,19
+2018,46129,Walworth County,South Dakota,17.3
+2018,47021,Cheatham County,Tennessee,18.9
+2018,47027,Clay County,Tennessee,18.9
+2018,47043,Dickson County,Tennessee,19.1
+2018,47067,Hancock County,Tennessee,19.2
+2018,47083,Houston County,Tennessee,18.4
+2018,47085,Humphreys County,Tennessee,19.3
+2018,47127,Moore County,Tennessee,19.4
+2018,47135,Perry County,Tennessee,18
+2018,47137,Pickett County,Tennessee,19.4
+2018,47161,Stewart County,Tennessee,18.7
+2018,48011,Armstrong County,Texas,18.1
+2018,48017,Bailey County,Texas,18
+2018,48023,Baylor County,Texas,19.1
+2018,48025,Bee County,Texas,18.3
+2018,48031,Blanco County,Texas,17.6
+2018,48033,Borden County,Texas,17.9
+2018,48035,Bosque County,Texas,18
+2018,48043,Brewster County,Texas,17.7
+2018,48045,Briscoe County,Texas,18
+2018,48047,Brooks County,Texas,18
+2018,48063,Camp County,Texas,17.8
+2018,48065,Carson County,Texas,18.1
+2018,48067,Cass County,Texas,19.2
+2018,48069,Castro County,Texas,18.2
+2018,48075,Childress County,Texas,17.9
+2018,48079,Cochran County,Texas,18.3
+2018,48081,Coke County,Texas,18.3
+2018,48083,Coleman County,Texas,18.3
+2018,48087,Collingsworth County,Texas,18.4
+2018,48089,Colorado County,Texas,17.9
+2018,48093,Comanche County,Texas,18
+2018,48095,Concho County,Texas,18.1
+2018,48097,Cooke County,Texas,17.9
+2018,48099,Coryell County,Texas,19.4
+2018,48101,Cottle County,Texas,18.2
+2018,48103,Crane County,Texas,18.1
+2018,48105,Crockett County,Texas,18.2
+2018,48107,Crosby County,Texas,18.4
+2018,48109,Culberson County,Texas,18.3
+2018,48111,Dallam County,Texas,17.8
+2018,48115,Dawson County,Texas,18.4
+2018,48117,Deaf Smith County,Texas,18
+2018,48119,Delta County,Texas,18
+2018,48123,Dewitt County,Texas,19
+2018,48125,Dickens County,Texas,18
+2018,48127,Dimmit County,Texas,18.2
+2018,48129,Donley County,Texas,18.3
+2018,48131,Duval County,Texas,18
+2018,48133,Eastland County,Texas,18.9
+2018,48137,Edwards County,Texas,18.3
+2018,48143,Erath County,Texas,19.5
+2018,48145,Falls County,Texas,17.2
+2018,48149,Fayette County,Texas,19.1
+2018,48151,Fisher County,Texas,17.8
+2018,48153,Floyd County,Texas,18
+2018,48155,Foard County,Texas,18.2
+2018,48159,Franklin County,Texas,18.4
+2018,48161,Freestone County,Texas,19.5
+2018,48163,Frio County,Texas,18.1
+2018,48165,Gaines County,Texas,18.7
+2018,48169,Garza County,Texas,17.6
+2018,48171,Gillespie County,Texas,18
+2018,48173,Glasscock County,Texas,18
+2018,48175,Goliad County,Texas,18
+2018,48177,Gonzales County,Texas,18.4
+2018,48189,Hale County,Texas,18.6
+2018,48191,Hall County,Texas,17.7
+2018,48193,Hamilton County,Texas,17.9
+2018,48205,Hartley County,Texas,17.5
+2018,48211,Hemphill County,Texas,18.4
+2018,48219,Hockley County,Texas,18
+2018,48223,Hopkins County,Texas,19.3
+2018,48229,Hudspeth County,Texas,18.1
+2018,48233,Hutchinson County,Texas,19
+2018,48235,Irion County,Texas,18.7
+2018,48237,Jack County,Texas,19.3
+2018,48239,Jackson County,Texas,18.7
+2018,48243,Jeff Davis County,Texas,18.2
+2018,48247,Jim Hogg County,Texas,18.1
+2018,48249,Jim Wells County,Texas,17.7
+2018,48253,Jones County,Texas,18.6
+2018,48255,Karnes County,Texas,18.8
+2018,48261,Kenedy County,Texas,17.9
+2018,48263,Kent County,Texas,18.3
+2018,48265,Kerr County,Texas,17.9
+2018,48267,Kimble County,Texas,18.3
+2018,48269,King County,Texas,18.2
+2018,48271,Kinney County,Texas,18.6
+2018,48275,Knox County,Texas,17.1
+2018,48283,La Salle County,Texas,18.3
+2018,48279,Lamb County,Texas,18.3
+2018,48281,Lampasas County,Texas,19.1
+2018,48289,Leon County,Texas,19.3
+2018,48295,Lipscomb County,Texas,18.4
+2018,48297,Live Oak County,Texas,17.6
+2018,48299,Llano County,Texas,17.5
+2018,48301,Loving County,Texas,18.5
+2018,48305,Lynn County,Texas,17.8
+2018,48315,Marion County,Texas,18.9
+2018,48317,Martin County,Texas,17.7
+2018,48319,Mason County,Texas,17.9
+2018,48323,Maverick County,Texas,19.1
+2018,48311,Mcmullen County,Texas,18.1
+2018,48327,Menard County,Texas,18
+2018,48333,Mills County,Texas,18.4
+2018,48335,Mitchell County,Texas,17.3
+2018,48341,Moore County,Texas,17.3
+2018,48343,Morris County,Texas,18.1
+2018,48345,Motley County,Texas,17.6
+2018,48351,Newton County,Texas,19.1
+2018,48353,Nolan County,Texas,18.6
+2018,48357,Ochiltree County,Texas,18.2
+2018,48359,Oldham County,Texas,18.3
+2018,48369,Parmer County,Texas,19.1
+2018,48371,Pecos County,Texas,18.9
+2018,48379,Rains County,Texas,19
+2018,48383,Reagan County,Texas,17.5
+2018,48385,Real County,Texas,18.3
+2018,48389,Reeves County,Texas,18.1
+2018,48391,Refugio County,Texas,17.9
+2018,48393,Roberts County,Texas,18.3
+2018,48399,Runnels County,Texas,17.8
+2018,48403,Sabine County,Texas,18.6
+2018,48411,San Saba County,Texas,18
+2018,48413,Schleicher County,Texas,17.7
+2018,48415,Scurry County,Texas,18.1
+2018,48417,Shackelford County,Texas,19.5
+2018,48421,Sherman County,Texas,18.2
+2018,48425,Somervell County,Texas,18.8
+2018,48431,Sterling County,Texas,18.2
+2018,48433,Stonewall County,Texas,18.1
+2018,48435,Sutton County,Texas,19.1
+2018,48437,Swisher County,Texas,18.3
+2018,48443,Terrell County,Texas,17.7
+2018,48445,Terry County,Texas,18.2
+2018,48447,Throckmorton County,Texas,18.3
+2018,48449,Titus County,Texas,17.8
+2018,48455,Trinity County,Texas,18.8
+2018,48461,Upton County,Texas,18.1
+2018,48463,Uvalde County,Texas,19.1
+2018,48465,Val Verde County,Texas,18.5
+2018,48475,Ward County,Texas,17.9
+2018,48483,Wheeler County,Texas,18.2
+2018,48493,Wilson County,Texas,19.1
+2018,48495,Winkler County,Texas,18.1
+2018,48499,Wood County,Texas,18.1
+2018,48501,Yoakum County,Texas,18.4
+2018,48505,Zapata County,Texas,18.6
+2018,48507,Zavala County,Texas,17.7
+2018,49009,Daggett County,Utah,19.4
+2018,49017,Garfield County,Utah,19
+2018,49043,Summit County,Utah,14.2
+2018,49055,Wayne County,Utah,17.6
+2018,51013,Arlington County,Virginia,17.4
+2018,51017,Bath County,Virginia,18.3
+2018,51021,Bland County,Virginia,19
+2018,51520,Bristol City,Virginia,19.4
+2018,51530,Buena Vista City,Virginia,19.1
+2018,51036,Charles City County,Virginia,19
+2018,51595,Emporia City,Virginia,17.1
+2018,51610,Falls Church City,Virginia,18.3
+2018,51640,Galax City,Virginia,19.3
+2018,51081,Greensville County,Virginia,18.5
+2018,51685,Manassas Park City,Virginia,18.7
+2018,51690,Martinsville City,Virginia,18.7
+2018,51133,Northumberland County,Virginia,15.6
+2018,51720,Norton City,Virginia,18.4
+2018,51735,Poquoson City,Virginia,18.5
+2018,51181,Surry County,Virginia,19
+2018,51820,Waynesboro City,Virginia,19.5
+2018,51830,Williamsburg City,Virginia,18
+2018,51840,Winchester City,Virginia,19.4
+2018,53055,San Juan County,Washington,19.3
+2018,56039,Teton County,Wyoming,10.5
