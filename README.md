@@ -10,7 +10,7 @@ My analysis has uncovered insightful findings regarding the health trends in dif
 The project is organized into multiple notebook files, each addressing a different aspect of the analysis. The relevant findings and methodologies are detailed in the accompanying report.
 
 ## Report
-Thorough insights, detailed methodologies, and key findings are documented in the [Report.pdf](link_to_report) file. I invite you to delve into the report to gain a deeper understanding of our journey and the significant discoveries made.
+Thorough insights, detailed methodologies, and key findings are documented in the Report.pdf file. I invite you to delve into the report to gain a deeper understanding of our journey and the significant discoveries made.
 
 ## How to Use
 Feel free to explore the notebook files to understand specific aspects of the analysis. For a comprehensive overview, refer to the [Report.pdf](link_to_report).
